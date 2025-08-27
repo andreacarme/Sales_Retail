@@ -1,3 +1,5 @@
+<img width="1000" height="1000" alt="0_YWcRIpzdAYHfN02b" src="https://github.com/user-attachments/assets/84f7e58e-55b0-4ab3-8c49-a11858017b3d" />
+
 # Databricks AI/BI Genie – NLQ Demo Dataset
 
 Questo repository contiene **DDL e DML** per creare un database di esempio utilizzato per testare le funzionalità **Natural Language Query (NLQ)** di [Databricks AI/BI Genie](https://www.databricks.com/product/business-intelligence/ai-bi-genie).
