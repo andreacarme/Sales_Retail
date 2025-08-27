@@ -13,6 +13,8 @@ Il modello dati segue un approccio *star schema* e include:
 - **Dimensioni**: Cliente, Prodotto, Punto Vendita, Società, Valuta, Calendario, Categoria, Marchio, Stagione.
 - **Fatti**: Scontrino, Dettaglio Scontrino, Budget vendite.
 
+<img width="995" height="1575" alt="Databricks - fashion_catalog - fashion_synthetic_2" src="https://github.com/user-attachments/assets/1b167722-e019-4bc3-ac77-ed512f5723d7" />
+
 ## Caratteristiche principali
 
 - Supporto a **due fatti con granularità differenti**:  
