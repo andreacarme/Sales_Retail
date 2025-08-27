@@ -63,5 +63,4 @@ Il modello dati segue un approccio *star schema* e include:
 
 ---
 
-[Andrea Carmè – Senior Manager, ICONSULTING] (https://www.linkedin.com/in/andreacarme/)
-*Condividi e contribuisci: ogni feedback o miglioramento è benvenuto!*
+Andrea Carmè – Senior Manager, ICONSULTING (https://www.linkedin.com/in/andreacarme/)
