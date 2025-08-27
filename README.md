@@ -4,9 +4,8 @@ Questo repository contiene **DDL e DML** per creare un database di esempio utili
 
 ## Contenuto del repository
 
-- **`ddl/`**: contiene gli script di definizione delle tabelle (dimensioni e fatti), completi di chiavi primarie e foreign key.
-- **`dml/`**: contiene gli script di popolamento con dati sintetici di esempio.
-- **`diagram/`** (opzionale): schema ER o immagini di supporto (se presenti).
+- **`DDL/`**: contiene gli script di definizione delle tabelle (dimensioni e fatti), completi di chiavi primarie e foreign key.
+- **`DML/`**: contiene gli script di popolamento con dati sintetici di esempio.
 
 Il modello dati segue un approccio *star schema* e include:
 - **Dimensioni**: Cliente, Prodotto, Punto Vendita, Società, Valuta, Calendario, Categoria, Marchio, Stagione.
